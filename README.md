@@ -1,6 +1,6 @@
 # Meus Primeiros Passos com Docker — Trabalho RASI
 
-**Aluno(a):** [Seu Nome Completo]
+**Aluna:** Luisa Domiciano Morgado
 **Disciplina:** Redes e Administração de Sistemas (RASI)
 **Professor:** Cesar Augusto de Moraes Costa
 **Curso:** Técnico em Informática Integrado ao Ensino Médio — IFSP Campus Campos do Jordão
